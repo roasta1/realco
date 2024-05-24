@@ -203,3 +203,189 @@ header div.page1 article.p1article1 div.menu_right article.article2{
     color: white;
     gap: 4px;
 }
+
+header div.page2 {
+    gap: 20px;
+    display: flex;
+    padding: 64px 80px;
+    justify-content: space-between;
+}
+
+header div.page2 article.p2article1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color: #2A2C1F;
+    width: 300px;
+}
+
+header div.page2 article.p2article1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color: #2A2C1F;
+}
+
+header div.page2 article.p2article2{
+    display: flex;
+    gap: 32px;
+    align-items: center;
+}
+
+
+header div.page2 article.p2article2 div.p2article2child{
+    font-family: 'Roboto Black', sans-serif;
+    font-size: 18px;
+    color: #737680;
+    display: flex;
+    gap: 7px;
+    align-items: center;
+}
+
+header div.page3 {
+    display: grid;
+    padding: 64px 80px;
+    gap: 41px;
+}
+
+header div.page3 article.page3header{
+    display: grid;
+    justify-items: center;
+    text-align: center;
+    gap: 21px;
+}
+
+header div.page3 article.page3header h1{
+    font-family: 'Roboto Black', sans-serif;
+    font-size: 48px;
+    color: #2A2C1F;
+}
+
+header div.page3 article.page3header h2{
+    font-family: 'Roboto light', sans-serif;
+    font-size: 18px;
+    color: #65665C;
+    width: 740px;
+}
+
+header div.page3 article.page3footer {
+    padding: 48px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+header div.page3 article.page3footer div.page3footerchild{
+    padding: 80px 64px;
+    border: 1px solid #E7E8E3;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: grid;
+    justify-items: center;
+    text-align: center;
+    gap: 20px;
+}
+
+header div.page3 article.page3footer div.page3footerchild h1{
+    font-family: 'Roboto Black', sans-serif;
+    font-size: 28px;
+    color: #2A2C1F;
+}
+
+header div.page3 article.page3footer div.page3footerchild h2{
+    font-family: 'Roboto light', sans-serif;
+    font-size: 20px;
+    color: #65665C;
+    width: 398px;
+}
+
+header>div.page4 {
+    display: flex;
+    padding: 64px 80px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header div.page4 article.page4right img{
+}
+
+header div.page4 article.page4left{
+    display: grid;
+    gap: 20px;
+}
+
+header div.page4 article.page4left div.page4h4{
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    align-items: center;
+    border: 1px solid #E7E8E3;
+    background-color: #E7E8E3;
+    justify-content: center;
+    padding: 4px 21px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    color: #2A2C1F;
+    gap: 4px;
+    width: 140px;
+}
+
+header div.page4 article.page4left h1{
+    font-size: 48px;
+    font-family: 'Roboto black', sans-serif;
+    color: #2A2C1F;
+    width: 453px;
+}
+
+header div.page4 article.page4left h2{
+    font-size: 18px;
+    font-family: 'Roboto light', sans-serif;
+    color: #65665C;
+    width: 520px;
+}
+
+header div.page4 article.page4left div.page4h1h2 {
+    display: grid;
+    gap: 28px;
+}
+
+header div.page4 article.page4left div.page4leftbtns {
+    display: flex;
+}
+
+header div.page4 article.page4left div.page4leftbtns>p{
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    color: #2A2C1F;
+    display: flex;
+    align-items: center;
+    border: 1px solid #E7E8E3;
+    background-color: #ffffff;
+    justify-content: center;
+    padding: 12px 21px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    color: #2A2C1F;
+    gap: 4px;
+}
+
+header div.page4 article.page4left div.page4leftbtns>div{
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    color: #2A2C1F;
+    display: flex;
+    align-items: center;
+    border: 1px solid #e7e8e300;
+    background-color: #ffffff;
+    justify-content: center;
+    padding: 12px 21px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    color: #2A2C1F;
+    gap: 8px;
+}

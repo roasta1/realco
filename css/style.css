@@ -305,9 +305,6 @@ header>div.page4 {
     justify-content: space-between;
 }
 
-header div.page4 article.page4right img{
-}
-
 header div.page4 article.page4left{
     display: grid;
     gap: 20px;
@@ -388,4 +385,120 @@ header div.page4 article.page4left div.page4leftbtns>div{
     border-bottom-right-radius: 10px;
     color: #2A2C1F;
     gap: 8px;
+}
+
+
+
+
+
+header>div.page5 {
+    display: flex;
+    padding: 64px 80px;
+    align-items: center;
+    gap: 80px;
+}
+
+header div.page5 article.page4left{
+    display: grid;
+    gap: 20px;
+}
+
+header div.page5 article.page4left div.page4h4{
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    align-items: center;
+    border: 1px solid #E7E8E3;
+    background-color: #E7E8E3;
+    justify-content: center;
+    padding: 4px 21px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    color: #2A2C1F;
+    gap: 4px;
+    width: 155px;
+}
+
+header div.page5 article.page4left h1{
+    font-size: 48px;
+    font-family: 'Roboto black', sans-serif;
+    color: #2A2C1F;
+    width: 453px;
+}
+
+header div.page5 article.page4left h2{
+    font-size: 18px;
+    font-family: 'Roboto light', sans-serif;
+    color: #65665C;
+    width: 520px;
+}
+
+header div.page5 article.page4left div.page4h1h2 {
+    display: grid;
+    gap: 28px;
+}
+
+header div.page5 article.page4left div.page4leftbtns {
+    display: flex;
+}
+
+header div.page5 article.page4left div.page4leftbtns>p{
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    color: #2A2C1F;
+    display: flex;
+    align-items: center;
+    border: 1px solid #E7E8E3;
+    background-color: #ffffff;
+    justify-content: center;
+    padding: 12px 21px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    color: #2A2C1F;
+    gap: 4px;
+}
+
+header div.page5 article.page4left div.page4leftbtns>div{
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    color: #2A2C1F;
+    display: flex;
+    align-items: center;
+    border: 1px solid #e7e8e300;
+    background-color: #ffffff;
+    justify-content: center;
+    padding: 12px 21px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    color: #2A2C1F;
+    gap: 8px;
+}
+
+header div.page5 article.page4left div.page4h3h5father{
+    display: flex;
+    gap: 67px;
+    padding-top: 20px;
+    padding-bottom: 8px;
+}
+
+header div.page5 article.page4left div.page4h3h5father article{
+    display: grid;
+    font-family: 'Roboto', sans-serif;
+    gap: 17px;
+}
+
+header div.page5 article.page4left div.page4h3h5father article h3{
+    font-size: 20px;
+}
+
+header div.page5 article.page4left div.page4h3h5father article h5{
+    font-size: 16px;
+    color: #65665C;
+    width: 245px;
 }
